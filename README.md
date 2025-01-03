@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **NodeJS,Oracle e Power BI**
 
-- 💬 Me pergunte sobre **Nodejs,JavaScript,Oracle,MongoDB,Postegre,Mysql,Firebase,ApiCloud**
+- 💬 Me pergunte sobre **Nodejs,linux,JavaScript,Oracle,MongoDB,Postegre,Mysql,Firebase,ApiCloud**
 
 - 📫 Você me acha atráves do e-mail **gabriel.schmegel.23@hotmail.com**
 
